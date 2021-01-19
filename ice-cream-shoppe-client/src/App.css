@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: teal;
+  color: ivory;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-family: "Lobster Two", cursive;
+}
+
+img.icecream {
+  width: 75%;
+}
