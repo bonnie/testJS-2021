@@ -1,14 +1,25 @@
-.App {
-  text-align: center;
-  background-color: teal;
-  color: ivory;
-  font-family: "Lato", sans-serif;
+h1,
+h3 {
+  font-family: "Lobster Two", cursive;
 }
 
 h1 {
-  font-family: "Lobster Two", cursive;
+  margin-bottom: 20px;
+}
+
+.App {
+  text-align: center;
+  color: ivory;
+  font-family: "Lato", sans-serif;
+  width: 100%;
+  margin-top: 20px;
 }
 
 img.icecream {
   width: 75%;
+}
+
+.spinner {
+  z-index: 1000;
+  margin: auto;
 }
