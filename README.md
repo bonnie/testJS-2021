@@ -6,8 +6,8 @@ A simple app with a server that serves information about the day's flavors, and 
 
 ## To install
 
-#. [Fork](https://guides.github.com/activities/forking/) or [clone](https://github.com/git-guides/git-clone) this repository.
-#. Run `npm install` in **both** the `ice-cream-shoppe-client` and `ice-cream-shoppe-server` directories.
+1. [Fork](https://guides.github.com/activities/forking/) or [clone](https://github.com/git-guides/git-clone) this repository.
+2. Run `npm install` in **both** the `ice-cream-shoppe-client` and `ice-cream-shoppe-server` directories.
 
 ## To run
 
