@@ -1,12 +1,13 @@
-# Ice Cream Shoppe
+# Testing React Server Calls: Loading and Errors
 
-A simple app with a server that serves information about the day's flavors, and a client that displays them.
+### Code for TestJS Summit Workshop
 
-For use in the [January 25, 2020 TestJS Summit Workshop](https://www.testjssummit.com/workshops-3h) _Testing React Server Calls: Loading and Errors_
+A simple app with a server that serves information about the day's flavors, and a client that displays them for use in the [January 25, 2021 TestJS Summit Workshop](https://www.testjssummit.com/workshops-3h) _Testing React Server Calls: Loading and Errors_
 
 ## To install
 
-Run `npm install` in **both** the `ice-cream-shoppe-client` and `ice-cream-shoppe-server` directories.
+#. [Fork](https://guides.github.com/activities/forking/) or [clone](https://github.com/git-guides/git-clone) this repository.
+#. Run `npm install` in **both** the `ice-cream-shoppe-client` and `ice-cream-shoppe-server` directories.
 
 ## To run
 
